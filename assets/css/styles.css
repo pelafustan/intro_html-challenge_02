@@ -44,7 +44,7 @@ img {
     margin-bottom: 1rem;
 }
 
-.header {
+header {
     margin: auto;
     text-align: center;
     color: #E4D9FF;
@@ -83,7 +83,7 @@ img {
     font-weight: bold;
 }
 
-.footer p {
+footer p {
     box-shadow: 0 4px 8px 0 #1E2749;
     background-color: #273469;
     color: #FAFAFF;
@@ -98,6 +98,6 @@ img {
     padding: 1rem;
 }
 
-.footer a {
+footer a {
     color: #E4D9FF;
 }
