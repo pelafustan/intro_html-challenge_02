@@ -6,7 +6,7 @@ Here we are with the second challenge, babe!. The objective of this challenge is
 
 ## View
 
-You can check this sweetie piece of `html` [here.](https://pelafustan.github.io/challenge_02/)
+You can check this sweetie piece of `html` [here.](https://pelafustan.github.io/intro_html-challenge_02/)
 
 ## Author
 
